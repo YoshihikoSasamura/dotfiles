@@ -1,0 +1,2 @@
+DOTFILES_DIRS="~/.dotfiles"
+EXCLUDES="README.md LICENSE Brewfile config/git/config.local.sample"

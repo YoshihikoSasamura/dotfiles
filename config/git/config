@@ -1,0 +1,14 @@
+[include]
+  path = config.local
+[init]
+  defaultBranch = main
+[color]
+  ui = auto
+[core]
+  editor = code -w
+  excludesfile = ~/.config/git/gitignore_global
+  autocrlf = false
+[log]
+  date = iso
+[ghq]
+  root = ~/Projects/
