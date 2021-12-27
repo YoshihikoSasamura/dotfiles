@@ -19,3 +19,6 @@ if test "$TERM_PROGRAM" != "vscode" && test -z $TMUX && status --is-login
     end
   end
 end
+
+# asdf
+source /usr/local/opt/asdf/libexec/asdf.fish
