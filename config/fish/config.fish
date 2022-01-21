@@ -22,3 +22,6 @@ end
 
 # asdf
 source /usr/local/opt/asdf/libexec/asdf.fish
+
+# Google Cloud SDK
+source /usr/local/Caskroom/google-cloud-sdk/latest/google-cloud-sdk/path.fish.inc
